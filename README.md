@@ -1,1 +1,1 @@
-# offline-doc-scanner
+# offline-doc-scanner-model
